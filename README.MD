@@ -66,13 +66,13 @@ This irreversibility radically redefines the behavior of black holes event horiz
 ## Radioactivity
 The random loss and gain of past and future provides an explanation for the random nature of radioactivity. The loss of precision in the internal information of an atomic nucleus will be extremely dependendent on the precise paths of the internal interactions. The paths vary randomly, and for a rare number of interaction paths, the loss of precision accumulates to a state where the nucleus "forgets" that it is stable. This also explains why neutrons may be unstable outside of nuclei but stable within; when within a nucleus, the available interaction paths never accumulate enough loss of information to take the neutron outside of its set of stable states. 
 
-It's tempting to suspect that this process might also underly the flavor changes of neutrinos.
+It's also tempting to suspect that this process might also underly the flavor changes of neutrinos; their mass-energy contains so little information that small amounts of missing information might manifest in this way.
 
 ## Linked Properties
 Conservation of causality provides a simple physical interpretation of properties linked by Heisenberg's unccertainty principle such as position and momentum: linked properties share the physical storage of their causality in the particle.
 
 ## When Does the Waveform Collapse?
-The waveform collapses when the loss of information about the causal past makes the superposition mathematically unsustainable. 
+Unconserve instantaneous information suggests that the waveform collapses when the loss of information about the causal past makes the superposition mathematically unsustainable. 
 
 ## Next Steps
 By providing a path to make quantum mechanics conform to the finite information behavior of real particles and taming event horizons, conservation of causality seems to offer some worthwhile advantages. 
