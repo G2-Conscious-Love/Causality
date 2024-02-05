@@ -63,6 +63,9 @@ Although newer particles contain the same total amount of information as the old
 
 This irreversibility radically redefines the behavior of black holes event horizons as (relatively) simple thermal processes which cheerfully destroy all of the causal history contained in infalling objects, and retain only the infalling mass-energy as stored information.
 
+## Radioactivity
+The random loss and gain of past and future provides an explanation for the random nature of radioactivity. The loss of precision in the internal information of an atomic nucleus will be extremely dependendent on the precise paths of the internal interactions. The paths vary randomly, and for a rare number of interaction paths, the loss of precision accumulates to a state where the nucleus "forgets" that it is stable. This also explains why neutrons may be unstable outside of nuclei but stable within; when within a nucleus, the available interaction paths never accumulate enough loss of information to take the neutron outside of its set of stable states.
+
 ## Next Steps
 By providing a path to make quantum mechanics conform to the finite information behavior of real particles and taming event horizons, conservation of causality seems to offer some worthwhile advantages. 
 
