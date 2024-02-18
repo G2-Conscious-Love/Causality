@@ -43,13 +43,13 @@ My reasoning about finite precision math is the main thing I wanted to have crit
 
 But by pursuing the not-unreasonable abstraction of correlating information one-to-one with mass-energy, it becomes obvious that mass-energy is a generic way of referring to a particle's ability to affect the results of future calculations. From here the term *causality* starts to look irresistable as a name for that abstraction, and we can trivially observe that causality is conserved, since it is simply another face of mass-energy.
 
-This, finally, tells us that in the absence of structure, the mathematical past is finite&mdash;on a timescale of seconds for hot gas. The notion of finite past demands that the past be divided into causal, where the parameters of those past states are still affecting the present, and non-causal, where no matter what those past states were they no longer have any effect on the present. Future is similarly causal and non-causal.
+This, finally, tells us that in the absence of structure, the mathematical past is finite&mdash;on a timescale of seconds for hot dense gas. The notion of finite past demands that the past be divided into causal, where the parameters of those past states are still affecting the present, and non-causal, where no matter what those past states were they no longer have any effect on the present. Future is similarly causal and non-causal.
 
 ## Parting Shot
 Finally, finite precision storage of parameters provides a nice mechanical explanation for linked properties such as position-momentum: they use the same storage space, and are thus fundamentally two aspects of one parameter. This logic continues nicely with mass-energy, which then leads directly to a single storage value that contains the particle's entire causality. Computationally, the bigger that number is relative to other particles, the farther it can project its effects into the future before lossy interactions steal all of its causality.
 
 So if this last little speculation is not complete bullshit, then stable particles must be defined by a set of stable self-interactions using finite precision math, and it becomes impossible to avoid the concept of a quantized unit of mass-energy which is somehow a unit of causality&mdash;perhaps just a single mathematical stored bit.
 
-In the extremely unlikely event that any of this holds up, I nominate the term "fleek", as in "on fleek", for this quantum of information/causality, I and will explain why if that is ever requested.
+In the extremely unlikely event that any of this holds up, I nominate the term "fleek", as in "on fleek", for this quantum of causality, I and will explain why if that is ever requested.
 
 I want to offer my sincere thanks for the time you have spent reading this, and I look forward to hearing why I'm completely wrong. :-)
