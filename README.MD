@@ -8,7 +8,7 @@ I'm a retired electronics engineer and also a lifetime physics addict, so I'm fa
 ## Time-domain physics
 Electronic engineering routinely switches between time-domain calculations and frequency-domain calculations, and this is a good abstraction for the relationship between the time-domain physics that can perform many useful calculations much more easily than those same calculations can be performed in the wave-domain physics of quantum mechanics and vice-versa. I perhaps should mention that time-domain physics can't answer quantum mechanical questions, but it enfolds the great wealth of knowledge that comes from precalculated wave-domain results transformed into the time domain.
 
-Because the overlap of results from the two kinds of calculations must be exact wherever it is non-null, it holds that anything impossible in one domain must also be impossible in the other domain in any area of non-null overlap. One obvious impossibility in the time domain of physics is that any particle, real or virtual, must not depend on infinite information for its existence on the assumption that physically extant information has non-zero mass-energy.
+Because the overlap of results from the two kinds of calculations must be exact wherever it is non-null, it holds that anything impossible in one domain must also be impossible in the other domain in any area of non-null overlap. One obvious impossibility in the time domain of physics is that any particle, real or virtual, must not depend on infinite information for its existence based on the assumption that physically extant information has non-zero mass-energy.
 
 In other words, the use of infinite precision value parameters in wave-domain mathematics transforms to a requirement for infinite mass-energy in the time domain. These infinite precision values are the unnoticed infinities that need to be removed. 
 
@@ -39,7 +39,7 @@ Finite precision numerical stability also gives an explanation for wave function
 ## Defining Causality
 My reasoning about finite precision math is the main thing I wanted to have critiqued, so I could, and perhaps should, stop here.
 
-But by pursuing the not-unreasonable abstraction of correlating information one-to-one with mass-energy, it becomes obvious that mass-energy is a generic way of referring to the a particle's ability to affect the results of future calculations. From here the term *causality* starts to look irresistable as a name for that abstraction, and we can trivially observe that causality is conserved, since it is simply another face of mass-energy.
+But by pursuing the not-unreasonable abstraction of correlating information one-to-one with mass-energy, it becomes obvious that mass-energy is a generic way of referring to a particle's ability to affect the results of future calculations. From here the term *causality* starts to look irresistable as a name for that abstraction, and we can trivially observe that causality is conserved, since it is simply another face of mass-energy.
 
 This, finally, tells us that in the absence of structure, the mathematical past is finite&mdash;on a timescale of seconds for hot gas. The notion of finite past demands that the past be divided into causal, where the parameters of those past states are still affecting the present, and non-causal, where no matter what those past states were they no longer have any effect on the present. Future is similarly causal and non-causal.
 
@@ -48,6 +48,6 @@ Finally, finite precision storage of parameters provides a nice mechanical expla
 
 So if this last little speculation is not complete bullshit, then stable particles must be defined by a set of stable self-interactions using finite precision math, and it becomes impossible to avoid the concept of a quantized unit of mass-energy which is somehow a unit of causality&mdash;perhaps just a single mathematical stored bit.
 
-In the extremely unlikely event that any of this holds up, I nominate the term "fleek", as in "on fleek", for this quantum of information, I and will explain why if that is ever requested.
+In the extremely unlikely event that any of this holds up, I nominate the term "fleek", as in "on fleek", for this quantum of information/causality, I and will explain why if that is ever requested.
 
 I want to offer my sincere thanks for the time you have spent reading this, and I look forward to hearing why I'm completely wrong. :-)
