@@ -1,12 +1,44 @@
-# Conservation of Causality: Generalizing Conservation of Information Makes the Physical Universe Possible, Renders Event Horizons Boring, and Unifies Physics
+# Removing Unnoticed Infinities in Quantum Mechanics Implies a Physical Mechanism for Waveform Collapse
 
-by G2 Author
+by g2author, MSEE
 
-## Abstract
-This paper proposes that conservation of information be generalized into the dimension of time so that it includes not only the conservation of instantaneous information, but also conservation of the integral of all extant information, including predictability and postdictability,for any given moment in time. The author is calling this conserved integral *causality*. Satisfaction of this new dimension of conservation ensures that the physical universe is able to exist, and forces changes upon quantum mechanics, and perhaps general relativity, which the author suspects will allow the unification of physics.
+## What the author knows and doesn't
+I"m a retired electronics engineer and also a lifetime physics addict, so I'm fairly well-versed in what I think of a *time-domain physics*. However, I have not spent years with my head submerged in that horse trough of math which is quantum mechanics, so this little missive is sadly likely to contain one or two divide-by-zero errors that would have been obvious if I knew the wavefront-domain math.
 
-## This Preprint's Limitations
-The author of this paper is a retired electronics and software engineer, and their knowledge of general relativity and quantum mechanics is limited to Scientific American and similar publications, which means that, in preprint form at least, this paper's standards of domain expertise and academic rigor will be unavoidably low. Please forward any instances of error or relevant priority to the author, who means well but just really doesn't know anything.
+## Time-domain phyaics
+Electronic engineering makes routinely switches between time-domain calculations and frequency-domain calculations, and this is a good abstraction for the relationship between the time-domain physics that can perform many useful calculations much more easily than those same calculations can be performed in the wavefront-domain physics of quantum mechanics and vice-versa. I perhaps should mention that time-domain physics can't answer quantum mechanical questions, but it enfolds the great wealth of knowledge---that can be reached via precalculated time-domain results transformed from the wavefront domain.
+
+Because the overlap of results from the two kinds of calculations must be exact wherever it is non-null, it holds that anything impossible in one domain must also be impossible in the other domain in any area of non-null overlap. One obvious impossibility in the time domain of physics is that physically extant information has non-zero mass, and therefore any particle, real or virtual, must not depend on infinite information for its existence.
+
+## The unnoticed infinities
+
+
+
+
+
+This paper proposes that conservation of information be generalized into the dimension of time so that it includes not only the conservation of instantaneous information, but also conservation of the integral of all extant information&mdash;including predictability and postdictability&mdash;for any given moment in time. The author is calling this conserved integral *causality*. Satisfaction of this new dimension of conservation ensures that the physical universe is able to exist, and forces changes upon quantum mechanics, and perhaps general relativity, which the author suspects will allow the unification of physics.
+
+## This proposal is standard physics
+The author wishes to stress that the proposal in this paper is composed entirely of well-established principles of physics and engineering which are based entirely upon intuitively sensible physical processes. The proposed conservation of causality principle derives every feature of its character from a major correction to the conservation of information principle plus the refinements to predicted behavior that are expected and demanded as the result of attempting to integrate a new conservation principle into an already almost perfectly successful framework.
+
+## This proposal arises from a standard scientific technique
+It is a standard mathematical technique for exploring strategic spaces that if there exists a predictive framework of nearly perfect success, the chances are excellent that exactly one of the predictive components in your system is missing some vital complexity, which is most simply explained by a missing conservation law which is being only approximated within the current predictive framework.
+
+This proposal suggests that the relevant incorrect approximation in the current view is that instantaneous information is never destroyed, so that information about the past has accumulated somewhere and must be computationally capable of continuing this proliferation of historical information into the infinite future. 
+
+## The contradiction in current quantum mechanics
+That is is easily illustrated. Consider that the initial state for each particle in a non-repeating deterministic billiard-ball universe of potentially infinite longevity would have to somehow carry the infinite amount of information required to deterministically define its behavior into the possibly infinite future. Making the impossible-to-avoid assumption that finite information must be represented by some finite mass, the infinite information contained in the initial state of a single particle must be accompanied by infinite mass, rendering this universe impossible.
+
+If this author's understanding is correct, quantum mechanics adds randomness while still preserving the drawback of requiring each particle to somehow represent not just a single past, but all possible pasts as well. The problem is that this still demands an infinite information storage capacity associated with each particle that ever exists, which is again a physical impossibility.
+
+
+
+## This paper's limitations
+The author of this paper is a retired electronics and software engineer, and their knowledge of general relativity and quantum mechanics is limited to Scientific American and similar publications, which means that this paper's initial standards of domain expertise and academic rigor will be unavoidably low. Please forward any instances of error or relevant priority to the author, who means well but really just doesn't know anything.
+
+
+## ????????
+Limited precision can be a more flexible concept than quantizing. Rather than a number simply terminating as resolution gets smaller, it could terminate in increasing uncertainty over the last few places, terninating in full randomness. This might be guessed to be a mathematically optimal way of packing maximum causative power into minimum mass-energy. However, the method of encoding is orthogonal to the primary point, which is that there may be more than one kind of limited precision, but all kinds will follow the same conservation of (mass-energy)-causality.
 
 ## Defining Causality
 The traditional way of viewing subatomic particles is in terms of their various parameters, each of which contribute to each particle's mass-energy.
@@ -77,4 +109,4 @@ Unconserve instantaneous information suggests that the waveform collapses when t
 ## Next Steps
 By providing a path to make quantum mechanics conform to the finite information behavior of real particles and taming event horizons, conservation of causality seems to offer some worthwhile advantages. 
 
-The author’s enthusiasm and mathematical skills break down completely at this point, and they have no intention of pursuing this beyond this basic sketch. They hope that others will find this idea useful.
+The author's enthusiasm and mathematical skills break down completely at this point, and they have no intention of pursuing this beyond this basic sketch. They hope that others will find this idea useful.
